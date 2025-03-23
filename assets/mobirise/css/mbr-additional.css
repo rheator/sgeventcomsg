@@ -1345,8 +1345,8 @@ a {
   }
 }
 .cid-uFSKGcLSE5 {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 12rem;
+  padding-bottom: 12rem;
   background-image: url("../../../assets/images/gate.io2.jpeg-1600x652.jpg");
 }
 .cid-uFSKGcLSE5 .content-head {
@@ -1354,6 +1354,10 @@ a {
 }
 .cid-uFSKGcLSE5 .mbr-section-title {
   color: #ffffff;
+}
+.cid-uFSKGcLSE5 .mbr-text,
+.cid-uFSKGcLSE5 .mbr-section-btn {
+  color: #f7f7f7;
 }
 .cid-uFMV6IUfum {
   padding-top: 3rem;
